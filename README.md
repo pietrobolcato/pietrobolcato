@@ -21,6 +21,8 @@
 
 - 🔥 Currenty working in a **scalable voice-to-3D pipeline** comprising of state-of-the-art deep learning models (Whisper, Stable Diffusion, ISNet and MiDaS) to generate in few seconds 3D content that can be placed in Augmented Reality by thousands of creators around the world
 
+- 💡 Stack: Azure, Python, Pytorch, Terraform, Docker, Kubernetes, Pytest, GH Actions
+
 ---
 
 [![Pietro's github stats](https://github-readme-stats.vercel.app/api?username=pietrobolcato)](https://github.com/anuraghazra/github-readme-stats)
