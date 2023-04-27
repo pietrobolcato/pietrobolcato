@@ -19,7 +19,7 @@
 
 - 🏠 Berlin, Germany 🇩🇪 
 
-- 🔥 Currenty working in a **scalable voice-to-3D pipeline** comprising of state-of-the-art deep learning models (Whisper, Stable Diffusion, ISNet and MiDaS) to generate in few seconds 3D content that can be placed in Augmented Reality by thousands of creators around the world
+- 🔥 Currenty working on a **scalable voice-to-3D pipeline** comprising of state-of-the-art deep learning models (Whisper, Stable Diffusion, ISNet and MiDaS) to generate in few seconds 3D content that can be placed in Augmented Reality by thousands of creators around the world
 
 - 💡 Stack: Azure *(certified)*, Python, Pytorch, Terraform, Docker, Kubernetes, Pytest, GH Actions
 
