@@ -15,9 +15,7 @@
   
 - 🔥 Currenty working on a **scalable voice-to-3D pipeline** comprising of state-of-the-art deep learning models (Whisper, Stable Diffusion, ISNet and MiDaS) to generate in few seconds 3D content that can be placed in Augmented Reality by thousands of creators around the world
 
-- 💡 Stack: Python, Pytorch, Terraform, Docker, Pytest, GH Actions, Azure *(2x certified: [Data scientist](https://www.credly.com/badges/57161120-a932-4397-b6df-8ea77c7aa07a/public_url), [Azure AI](https://www.credly.com/badges/8b2e792b-400b-48f7-838d-9a3d7a6a9ce1/public_url))*
-  
-- 📫 How to reach me: pietrobolcato@gmail.com / hello@pietrobolcato.com
+- 💡 Stack: Python, Pytorch, Terraform, Docker, Pytest, GH Actions, Azure *(2x certified: [Data scientist](https://www.credly.com/badges/57161120-a932-4397-b6df-8ea77c7aa07a/public_url), [Azure AI](https://www.credly.com/badges/8b2e792b-400b-48f7-838d-9a3d7a6a9ce1/public_url))*, AWS
 
 - 🏠 Berlin, Germany 🇩🇪 
 
