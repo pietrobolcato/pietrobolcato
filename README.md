@@ -14,7 +14,8 @@
 - Previously, Created a text-to-sing pipeline for real time AI-generated melody, lyrics, and singing voice, used in the world’s most advanced AI Lyric Opera: [“Chasing Waterfalls”](https://vimeo.com/782480136).
 - MSc **Artificial Intelligence**, double degree from KTH Stockholm 🇸🇪 and TU Berlin 🇩🇪 & BSc **Computer Science** 
 - Skills: AWS, Huggingface, PyTorch, Pytest, Weights & Biases, Docker, Terraform, Github Actions, Azure *(2x certified: [Data scientist](https://www.credly.com/badges/57161120-a932-4397-b6df-8ea77c7aa07a/public_url), [Azure AI](https://www.credly.com/badges/8b2e792b-400b-48f7-838d-9a3d7a6a9ce1/public_url))*
-- Berlin, Germany 🇩🇪 
+- Berlin, Germany 🇩🇪
+- CV: [here](https://pietrobolcato.com/pietro_bolcato_cv.pdf)
 
 ---
 
