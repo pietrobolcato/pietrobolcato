@@ -10,8 +10,8 @@
   - Image generation, style transfer, upscaling, and background removal using Diffusion Models
   - Multimodal search, text generation and translation using LLMs, Multi-Modal Embeddings, and Vector DBs
   - Editable design generation, with a custom model trained on internal data
-- Also **built and currently leading an 8+ people interdisciplinary team**, including PM, UX designer, developers, and AI researchers
-- Previously, Created a text-to-sing pipeline for real time AI-generated melody, lyrics, and singing voice, used in the world’s most advanced AI Lyric Opera: [“Chasing Waterfalls”](https://vimeo.com/782480136).
+- Also **built and currently leading a 9 person cross-functional team**, including PM, UX designer, developers, and AI researchers
+- Previously, Created a text-to-song pipeline for real time AI-generated melody, lyrics, and singing voice, used in the world’s most advanced AI Lyric Opera: [“Chasing Waterfalls”](https://vimeo.com/782480136#t=4m).
 - MSc **Artificial Intelligence**, double degree from KTH Stockholm 🇸🇪 and TU Berlin 🇩🇪 & BSc **Computer Science** 
 - Skills: AWS, Huggingface, PyTorch, Pytest, Weights & Biases, Docker, Terraform, Github Actions, Azure *(2x certified: [Data scientist](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/31FCA968EDE018D9?sharingId=DEA58EA6857FEB7), [Azure AI](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/A6FF438CBB06730F?sharingId=DEA58EA6857FEB7))*
 - Berlin, Germany 🇩🇪
