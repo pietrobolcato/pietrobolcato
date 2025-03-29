@@ -15,7 +15,7 @@
 - MSc **Artificial Intelligence**, double degree from KTH Stockholm 🇸🇪 and TU Berlin 🇩🇪 & BSc **Computer Science** 
 - Skills: AWS, Huggingface, PyTorch, Pytest, Weights & Biases, Docker, Terraform, Github Actions, Azure *(2x certified: [Data scientist](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/31FCA968EDE018D9?sharingId=DEA58EA6857FEB7), [Azure AI](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/A6FF438CBB06730F?sharingId=DEA58EA6857FEB7))*
 - Berlin, Germany 🇩🇪
-- CV: [here](https://pietrobolcato.com/pietro_bolcato_cv.pdf)
+- CV: [here](https://www.pietrobolcato.com)
 
 ---
 
