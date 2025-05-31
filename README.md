@@ -1,21 +1,26 @@
-![Hello there](https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600)
+![Hello there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm92M2VqZWRqMWcycTNtenZmNGloMmk1dnZ3bmxzY2QwODIzZmtzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4wOMIO20D6ueakTU6m/giphy.gif)
 
-### 👋 Hello there! I'm Pietro
+
 
 ---
 
-- I am a **Principal AI Engineer**, specialized in **Generative AI** (mostly **NLP** and **CV**) and **MLOps**
+#### 👋 I'm Pietro, Lead AI Engineer focused in Multimodal Generative AI (Diffusion + LLMs) and cross-functional leadership
 
-- Currently **leading all AI efforts at [@Kittl](https://www.kittl.com)** - started from scratch, and developed solutions for:
-  - Image generation, style transfer, upscaling, and background removal using Diffusion Models
-  - Multimodal search, text generation and translation using LLMs, Multi-Modal Embeddings, and Vector DBs
-  - Editable design generation, with a custom model trained on internal data
-- Also **built and currently leading a 9 person cross-functional team**, including PM, UX designer, developers, and AI researchers
-- Previously, Created a text-to-song pipeline for real time AI-generated melody, lyrics, and singing voice, used in the world’s most advanced AI Lyric Opera: [“Chasing Waterfalls”](https://vimeo.com/782480136#t=4m).
-- MSc **Artificial Intelligence**, double degree from KTH Stockholm 🇸🇪 and TU Berlin 🇩🇪 & BSc **Computer Science** 
-- Skills: AWS, Huggingface, PyTorch, Pytest, Weights & Biases, Docker, Terraform, Github Actions, Azure *(2x certified: [Data scientist](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/31FCA968EDE018D9?sharingId=DEA58EA6857FEB7), [Azure AI](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/A6FF438CBB06730F?sharingId=DEA58EA6857FEB7))*
-- Berlin, Germany 🇩🇪
-- CV: [here](https://www.pietrobolcato.com)
+- At [**Snap**](https://snapchat.com/), I am working on State of the Art **Generative Models**
+- At [**Kittl**](https://kittl.com/), I created **AI tools for Graphic Design** and hired and lead a 9-person team
+- At [**Kling Klang Klong**](https://www.klingklangklong.com/), I created the **text-to-sing pipeline** for "Chasing Waterfalls," the world’s **most advanced AI Lyric Opera to date**
+- At [**DoReMir**](https://doremir.com/), I created a **Generative Melody Model** that competed in the **first ever AI Eurovision Song Contest**
+
+In my **free time** I write a [**technical blog**](https://medium.com/@pietrobolcato), love cooking, architecture, [**art and design**](https://www.youtube.com/watch?v=tBsUPl2JOKo), and I am always up for a good hike! 🏕️
+
+---
+
+#### 👉 At a glance:
+
+- **🧔‍♂️ Website:** [here](https://www.pietrobolcato.com)
+- **👔 CV:** [here](https://static.pietrobolcato.com/pietro_bolcato_cv.pdf)
+- **🇬🇧 Location:** London, United Kingdom
+- **🔧 Tools and Stack:** AWS, Huggingface, PyTorch, Pytest, Weights & Biases, Docker, Terraform, Github Actions, Azure *(2x certified: [Data scientist](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/31FCA968EDE018D9?sharingId=DEA58EA6857FEB7), [Azure AI](https://learn.microsoft.com/api/credentials/share/en-us/PietroBolcato-8609/A6FF438CBB06730F?sharingId=DEA58EA6857FEB7))*
 
 ---
 
