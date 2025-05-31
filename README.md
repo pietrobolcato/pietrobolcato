@@ -4,7 +4,7 @@
 
 ---
 
-#### 👋 I'm Pietro, Lead AI Engineer focused in Multimodal Generative AI (Diffusion + LLMs) and cross-functional leadership
+#### 👋 I'm Pietro, Lead AI Engineer focused on Multimodal Generative AI (Diffusion + LLMs) and cross-functional leadership
 
 - At [**Snap**](https://snapchat.com/), I am working on State of the Art **Generative Models**
 - At [**Kittl**](https://kittl.com/), I created **AI tools for Graphic Design** and hired and lead a 9-person team
