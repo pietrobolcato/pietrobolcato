@@ -11,7 +11,7 @@
 - At [**Kling Klang Klong**](https://www.klingklangklong.com/), I created the **text-to-sing pipeline** for "Chasing Waterfalls," the world’s **most advanced AI Lyric Opera to date**
 - At [**DoReMir**](https://doremir.com/), I created a **Generative Melody Model** that competed in the **first ever AI Eurovision Song Contest**
 
-In my **free time** I write a [**technical blog**](https://medium.com/@pietrobolcato), love cooking, architecture, [**art and design**](https://www.youtube.com/watch?v=tBsUPl2JOKo), and I am always up for a good hike! 🏕️
+In my **free time** I write a [**technical blog**](https://medium.com/@pietrobolcato), love cooking, architecture, [**art and design**](https://www.youtube.com/watch?v=tBsUPl2JOKo), and I am always up for a good hike! 
 
 ---
 
