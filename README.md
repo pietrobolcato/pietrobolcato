@@ -14,7 +14,7 @@
 
 In my **free time** I write a [**technical blog**](https://medium.com/@pietrobolcato), love cooking, architecture, [**art and design**](https://www.youtube.com/watch?v=tBsUPl2JOKo), and I am always up for a good hike! 
 
-You can **read more** about **what I built and its impact** in my cv and linkedin below 👇 
+You can **read more about what I built and its impact** in my cv and linkedin below 👇 
 
 ---
 
