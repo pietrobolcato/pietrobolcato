@@ -8,9 +8,9 @@
 
 - At [**Snap**](https://snapchat.com/), I am working on **State of the Art Generative Models**
 - At [**Kittl**](https://kittl.com/), I created **AI tools for Graphic Design** and hired and led a 9-person team
-- At [**Kling Klang Klong**](https://www.klingklangklong.com/), I created the **text-to-sing pipeline** for *"Chasing Waterfalls"*, the world’s **most advanced AI Lyric Opera to date**
+- At [**Kling Klang Klong**](https://www.klingklangklong.com/), I created the **text-to-sing pipeline** for *"Chasing Waterfalls"*, the world’s **most advanced AI Lyric Opera to date**; also led a 3-person team
 - At [**DoReMir**](https://doremir.com/), I created a **Generative Melody Model** that competed in the **first ever AI Eurovision Song Contest**
-- Before that, I graduated with a **Double Master’s degree in AI** from **TU Berlin and KTH Stockholm**, after a **BSc in Computer Science**
+- Before that, I graduated with a **Double Master’s degree in AI** from **TU Berlin 🇩🇪 and KTH Stockholm 🇸🇪**, after a **BSc in Computer Science**
 
 In my **free time** I write a [**technical blog**](https://medium.com/@pietrobolcato), love cooking, architecture, [**art and design**](https://www.youtube.com/watch?v=tBsUPl2JOKo), and I am always up for a good hike! 
 
