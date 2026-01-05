@@ -6,8 +6,8 @@
 
 #### 👋 I'm Pietro, Technical Leader focused on Multimodal Generative AI (Diffusion models and LLMs) and cross-functional leadership
 
-- At [**Snap**](https://snapchat.com/), I am working on **State of the Art Generative Models**
-- At [**Kittl**](https://kittl.com/), I created **AI tools for Graphic Design** and hired and led a 9-person team
+- At [**Snap**](https://snapchat.com/), I **lead Multimodal Generative AI in Lens Studio**, owning creator-facing pipelines 
+- At [**Kittl**](https://kittl.com/), I created **AI tools for Graphic Design** and hired and led a 11-person team
 - At [**Kling Klang Klong**](https://www.klingklangklong.com/), I created the **text-to-sing pipeline** for *"Chasing Waterfalls"*, the world’s **most advanced AI Lyric Opera to date**; also led a 3-person team
 - At [**DoReMir**](https://doremir.com/), I created a **Generative Melody Model** that competed in the **first ever AI Eurovision Song Contest**
 - Before that, I graduated with a **Double Master’s degree in AI** from **TU Berlin 🇩🇪 and KTH Stockholm 🇸🇪**, after a **BSc in Computer Science**
